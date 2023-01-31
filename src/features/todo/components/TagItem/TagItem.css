@@ -1,0 +1,9 @@
+.badge {
+  background-color: #6c757d;
+}
+
+.badge-container {
+  right: 50px;
+  top: 15px;
+  position: absolute;
+}
